@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @cyborf
+- 👋 Hi, I’m @cyborf (Dan-Ha Le)
 - 👀 I’m interested in Computer Science and Politics!
-- 🌱 I’m currently learning Data Structures & International Law
-- 💞️ I’m looking to collaborate on Making Games!
+- 🌱 I’m currently learning Systems Programming & Seminar on Global Capitalism
+- 💞️ I’m looking to collaborate on Software Design and Artificial Intelligence!
+- 💗 I have a soft spot for felines and hand-made slow fashion
 - 📫 How to reach me: via Email dle3@oberlin.edu
 
 <!---
