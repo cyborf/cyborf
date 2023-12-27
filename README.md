@@ -1,3 +1,5 @@
+# 👋 Xin chao! My name is **Dan-Ha Le**
+
 - 👋 Hi, I’m @cyborf (Dan-Ha Le)
 - 👀 I’m interested in Computer Science and Politics!
 - 🌱 I’m currently conducting CSxPoliSci research on Large Language Models and their effect on the Future of Work
