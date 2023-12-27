@@ -1,5 +1,5 @@
-<h2 style = "text-align:center"> 👋 Xin chào! My name is **Dan-Ha Le** </h2>
-<p style = "text-align:center">_Human-Computer Interaction Researcher, UX Designer, Occasional Gamer!_</p>
+<h2 style = "text-align:center"> 👋 Xin chào! My name is Dan-Ha Le </h2>
+<p style = "text-align:center"><em>Human-Computer Interaction Researcher, UX Designer, Occasional Gamer!</em></p>
 - 👀 I’m interested in Computer Science and Politics!
 - 🌱 I’m currently conducting CSxPoliSci research on Large Language Models and their effect on the Future of Work
 - 💞️ I’m looking to collaborate on Web Development
